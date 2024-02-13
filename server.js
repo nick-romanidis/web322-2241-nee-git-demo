@@ -25,7 +25,7 @@ app.get("/", (req, res) => {
         {
             name: "Frank",
             age: 40,
-            occupation: "Project Manager",
+            occupation: "Manager",
             company: "RBC",
             visible: false
         },
